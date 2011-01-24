@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ArduinoTest!</string>
+    <string name="app_name">ArduinoTest</string>
+    <string name="open_communication">Open Communication</string>
+    <string name="close_communication">Close Communication</string>
+    <string name="ip_text">192.168.0.4</string>
+    <string name="port_text">50000</string>
+    <string name="debug">Debug data:</string>
+    <string name="x_title">X Axis:</string>
+    <string name="x_value">Undefined</string>
+    <string name="y_title">Y Axis:</string>
+    <string name="y_value">Undefined</string>
+    <string name="z_title">Z Axis:</string>
+    <string name="z_value">Undefined</string>
+</resources>
